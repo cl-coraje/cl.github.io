@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: _images/system/cailei.jpg
+picture: _images/system/cailei.jpeg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -33,7 +33,6 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#博客园:小白菜2333    https://www.cnblogs.com/cailei233/
 github: cl-coraje
 email: 1995cailei@gmail.com
 
@@ -42,7 +41,7 @@ authors:
     name: Lei Cai
     bio: An algorithm beginner
     external-image: false
-    picture: _images/system/cailei.jpg
+    picture: _images/system/cailei.jpeg
   
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
